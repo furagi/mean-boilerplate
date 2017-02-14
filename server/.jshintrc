@@ -1,0 +1,13 @@
+{
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "esnext": true,
+  "globals": {
+    "EventEmitter": true,
+    "Promise": true,
+    "setTimeout": true,
+    "process": "true",
+    "global": true
+  }
+}

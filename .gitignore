@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+logs/*
+server/config/local.json
+public/*
+*.sublime-*
